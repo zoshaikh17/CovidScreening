@@ -7,6 +7,7 @@ COVID-19 . The second source is from a  Kaggle dataset2 ,  The collected informa
 bacterial and viral pneumonia, and 1,000 examples of sound condition. We chosen out low-quality images in the dataset to anticipate superfluous classification errors.
 
 https://github.com/ieee8023/covid-chestxray-dataset
+
 https://www.kaggle.com/andrewmvd/convid19-x-rays
 
 ## Our Contributions

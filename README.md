@@ -6,6 +6,9 @@ imagelevel names. Particularly, the dataset was collected from three different s
 COVID-19 . The second source is from a  Kaggle dataset2 ,  The collected information comprises of 196 chest X-rays with affirmed COVID-19, 1,000 chest X-rays with confirmed 
 bacterial and viral pneumonia, and 1,000 examples of sound condition. We chosen out low-quality images in the dataset to anticipate superfluous classification errors.
 
+https://github.com/ieee8023/covid-chestxray-dataset
+https://www.kaggle.com/andrewmvd/convid19-x-rays
+
 ## Our Contributions
 In summary, our main contributions are:
 1) To improve the performance of the previously implemented models, we implemented an Oversampling method in Imbalanced Learning, called SMOTE on my COVID dataset.
